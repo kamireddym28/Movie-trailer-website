@@ -12,14 +12,16 @@
  - Clone the repo or download as a zip
  - Set the path and execute entertainment_center.py
  - On executions, opens a webpage in the default webbrowser with movie-posters
- - On hover over the poster, quick facts(storyline, duration etc.) appears by         blurring the poster**
+ - On hover over the poster, quick facts(storyline, duration etc.) appears by blurring the background**
  - On click, opens trailer window
 
 ## Description of files
+ 
  - ***media.py*** :  Movie class is defined to hold required information
- - ***fresh_tomatoes.py*** : Webpage designed to list of movies of our choice by  generating                       a HTML
+ 
+ - ***fresh_tomatoes.py*** : Webpage designed to list of movies of our choice by  generating a HTML
 
- - ***entertainment_center.py*** : Instances of movies were listed with respective                                     information. Array of these instances were used to call                              a method in fresh_tomatoes.py that results in     generating webpage
+ - ***entertainment_center.py*** : Instances of movies were listed with respective information. Array of these instances were used to call                              a method in fresh_tomatoes.py that results in generating webpage
 			     
 ## Demo
 
