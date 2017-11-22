@@ -23,7 +23,7 @@
 			     
 ## Demo
 
- Movies of my choice can be seen [here] (https://kamireddym28.github.io/Movie-trailer-website/fresh_tomatoes.html)
+ Movies of my choice can be seen [here](https://kamireddym28.github.io/Movie-trailer-website/fresh_tomatoes.html)
 
 ## Couresy
 
