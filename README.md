@@ -8,9 +8,9 @@
 
 ## Usage
 
- - Install python from the URL provided
- - Clone the repo or download as a zip
- - Set the path and execute entertainment_center.py
+ - Install python from the URL provided above
+ - Clone the repo or download as a zip on your local computer
+ - Set the path to which file was unzipped or cloned and execute entertainment_center.py
  - On executions, opens a webpage in the default webbrowser with movie-posters
  - On hover over the poster, quick facts(storyline, duration etc.) appears by blurring the background**
  - On click, opens trailer window
