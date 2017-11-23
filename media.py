@@ -1,6 +1,7 @@
-#webbrowser, an essential module is imported to play videos
+# webbrowser, an essential module is imported to play videos
 
 import webbrowser
+
 
 class Movie(object):
     """
@@ -17,14 +18,15 @@ class Movie(object):
             concerned trailer
 
     """
-    def __init__(self, title, duration, storyline, poster_image, year_of_release, trailer_url):
-                 self.title = title
-                 self.duration = duration
-                 self.storyline = storyline
-                 self.poster_image_url = poster_image
-                 self.year_of_release = year_of_release
-                 self.trailer_youtube_url = trailer_url
-                 
+
+    def __init__(self, title, duration, storyline, poster_image,
+                 year_of_release, trailer_url):
+        self.title = title
+        self.duration = duration
+        self.storyline = storyline
+        self.poster_image_url = poster_image
+        self.year_of_release = year_of_release
+        self.trailer_youtube_url = trailer_url
+
     def show_trailer(self):
         webbrowser.open(self.trailer_youtube_url)
-    
