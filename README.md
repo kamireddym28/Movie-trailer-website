@@ -19,7 +19,7 @@
  
  - ***media.py*** :  Movie class is defined to hold required information
  
- - ***fresh_tomatoes.py*** : Webpage designed to list of movies of our choice by  generating a HTML
+ - ***fresh_tomatoes.py*** : Webpage designed to list movies of our choice by  generating a HTML
 
  - ***entertainment_center.py*** : Instances of movies were listed with respective information. Array of these instances were used to call                              a method in fresh_tomatoes.py that results in generating webpage
 			     
